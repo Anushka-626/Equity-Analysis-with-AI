@@ -16,10 +16,5 @@ others, showing that the impact of sentiment is not uniform across all indices.
 Contributors
 This project is developed by:
 
-Krati Pandya
-Israr
-Zeel Dobariya
-Abhi Patel
-Darshankumar Kachhadiya
-Anushka Chettiar
+Krati Pandya , Israr,Zeel Dobariya, Abhi Patel, Darshankumar Kachhadiya, Anushka Chettiar
 
