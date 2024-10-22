@@ -1,1 +1,1 @@
-# Equity-Analysis-with-AI
+"#Equity Analysis with AI" 
