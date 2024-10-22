@@ -13,7 +13,6 @@ models using key error metrics like Mean Squared Error (MSE), Mean Absolute Erro
 cate that sentiment data improves accuracy for some indices, but can also add noise to
 others, showing that the impact of sentiment is not uniform across all indices.
 
-Contributors
 This project is developed by:
 
 Krati Pandya , Israr,Zeel Dobariya, Abhi Patel, Darshankumar Kachhadiya, Anushka Chettiar
